@@ -1,4 +1,4 @@
-var relay = require('./index.js');
+var relay = require('../index.js');
 relay = new relay("sample_two");
 relay.on("onRelayConnected", function() {
     console.log("relay conncted to bus");
