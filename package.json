@@ -1,0 +1,11 @@
+{
+  "name": "pm2-relay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Z8pn",
+  "license": "ISC",
+  "dependencies": {
+    "pm2": "^3.2.9"
+  }
+}
